@@ -1,6 +1,6 @@
 # Hi, I'm Ramses J 👋
 
-**Junior Frontend Developer** · Software Engineering student · Dominican Republic · Open to remote work
+**Full Stack Developer** · Software Engineering student · Dominican Republic · Open to remote work
 
 I build web interfaces with **React and TypeScript**, with a focus on the details that matter in finance and business apps: secure sessions, exact money handling, accessible forms and automated tests. I'm studying Software Engineering at Universidad del Caribe (UNICARIBE), class of 2028.
 
