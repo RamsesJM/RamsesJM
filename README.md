@@ -8,7 +8,29 @@ I build web interfaces with **React and TypeScript**, with a focus on the detail
 
 [![Email](https://img.shields.io/badge/Email-Ramsesjimenez001%40gmail.com-0f3d5e?logo=gmail&logoColor=white)](mailto:Ramsesjimenez001@gmail.com)
 
-[English](#featured-projects) · [Español](#versión-en-español)
+[English](#open-source-contribution) · [Español](#versión-en-español)
+
+---
+
+## Open Source Contribution
+
+### Microsoft APM — OpenCode 2 MCP Support
+
+**Open Source Contributor** · [PR #3414](https://github.com/microsoft/apm/pull/3414) · Merged into `main`
+
+Contributed to Microsoft's [APM](https://github.com/microsoft/apm) open-source project by implementing native OpenCode 2 MCP configuration support while preserving existing OpenCode 1 behavior. Resolves issue [#3112](https://github.com/microsoft/apm/issues/3112).
+
+`Python` `MCP` `OpenCode` `CLI` `Configuration Management` `Unit Testing` `Integration Testing`
+
+- **Native OpenCode 2 format:** writes MCP server entries under `mcp.servers`
+- **Server types:** supports both stdio and HTTP MCP servers
+- **Server controls:** handles the `disabled` and `codemode` settings
+- **Backward compatibility:** keeps OpenCode 1 working as before
+- **Safe configuration management:** preserves user-owned configuration and cleans up only the entries APM manages, never anyone else's
+- **Lifecycle handling:** correct install, update and removal of MCP servers
+- **Testing:** unit and integration tests
+- **Documentation:** version selection, configuration and migration guide
+- Passed CI, with all review feedback resolved before merge; the maintainer approved the design as the smallest, safest solution within the issue's scope
 
 ---
 
@@ -87,6 +109,10 @@ Spanish (native) · English (C2, EF SET)
 Desarrollo interfaces web con **React y TypeScript**, cuidando lo que más importa en aplicaciones financieras y de negocio: sesiones seguras, manejo exacto del dinero, formularios accesibles y pruebas automáticas. Estudio Ingeniería de Software en la Universidad del Caribe (UNICARIBE), con graduación prevista en 2028.
 
 > *Aprender cada día, perseverancia en cada momento.*
+
+**Contribución Open Source**
+
+- **[Microsoft APM: soporte MCP para OpenCode 2](https://github.com/microsoft/apm/pull/3414)** · Contribuidor Open Source: contribuí al proyecto open source `microsoft/apm` implementando el soporte nativo de configuración MCP para OpenCode 2 (`mcp.servers`, servidores stdio y HTTP), manteniendo la compatibilidad con OpenCode 1 y preservando la configuración existente del usuario. Incluye pruebas unitarias y de integración, y documentación. El PR #3414 fue merged en `main`.
 
 **Proyectos destacados**
 
